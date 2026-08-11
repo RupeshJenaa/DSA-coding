@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RupeshJenaa/DSA-coding/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RupeshJenaa/DSA-coding/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/RupeshJenaa/DSA-coding/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RupeshJenaa/DSA-coding/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/RupeshJenaa/DSA-coding/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RupeshJenaa/DSA-coding/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/RupeshJenaa/DSA-coding/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/RupeshJenaa/DSA-coding/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RupeshJenaa/DSA-coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RupeshJenaa/DSA-coding/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RupeshJenaa/DSA-coding/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/RupeshJenaa/DSA-coding/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/RupeshJenaa/DSA-coding/tree/master/3731-find-missing-elements) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/RupeshJenaa/DSA-coding/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/RupeshJenaa/DSA-coding/tree/master/1331-rank-transform-of-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RupeshJenaa/DSA-coding/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RupeshJenaa/DSA-coding/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/RupeshJenaa/DSA-coding/tree/master/3731-find-missing-elements) |
 ## String
