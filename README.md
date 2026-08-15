@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RupeshJenaa/DSA-coding/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RupeshJenaa/DSA-coding/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/RupeshJenaa/DSA-coding/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2594-minimum-time-to-repair-cars](https://github.com/RupeshJenaa/DSA-coding/tree/master/2594-minimum-time-to-repair-cars) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RupeshJenaa/DSA-coding/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RupeshJenaa/DSA-coding/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/RupeshJenaa/DSA-coding/tree/master/3731-find-missing-elements) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RupeshJenaa/DSA-coding/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RupeshJenaa/DSA-coding/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/RupeshJenaa/DSA-coding/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2594-minimum-time-to-repair-cars](https://github.com/RupeshJenaa/DSA-coding/tree/master/2594-minimum-time-to-repair-cars) |
 ## Sorting
 |  |
 | ------- |
