@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RupeshJenaa/DSA-coding/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/RupeshJenaa/DSA-coding/tree/master/1552-magnetic-force-between-two-balls) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RupeshJenaa/DSA-coding/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/RupeshJenaa/DSA-coding/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/RupeshJenaa/DSA-coding/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2594-minimum-time-to-repair-cars](https://github.com/RupeshJenaa/DSA-coding/tree/master/2594-minimum-time-to-repair-cars) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RupeshJenaa/DSA-coding/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/RupeshJenaa/DSA-coding/tree/master/0410-split-array-largest-sum) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/RupeshJenaa/DSA-coding/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RupeshJenaa/DSA-coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RupeshJenaa/DSA-coding/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
