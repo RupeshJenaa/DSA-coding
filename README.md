@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RupeshJenaa/DSA-coding/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RupeshJenaa/DSA-coding/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/RupeshJenaa/DSA-coding/tree/master/1189-maximum-number-of-balloons) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RupeshJenaa/DSA-coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -141,5 +142,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RupeshJenaa/DSA-coding/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RupeshJenaa/DSA-coding/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/RupeshJenaa/DSA-coding/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
