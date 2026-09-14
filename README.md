@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/RupeshJenaa/DSA-coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0410-split-array-largest-sum](https://github.com/RupeshJenaa/DSA-coding/tree/master/0410-split-array-largest-sum) |
+| [0503-next-greater-element-ii](https://github.com/RupeshJenaa/DSA-coding/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/RupeshJenaa/DSA-coding/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RupeshJenaa/DSA-coding/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/RupeshJenaa/DSA-coding/tree/master/0739-daily-temperatures) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RupeshJenaa/DSA-coding/tree/master/0020-valid-parentheses) |
+| [0503-next-greater-element-ii](https://github.com/RupeshJenaa/DSA-coding/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/RupeshJenaa/DSA-coding/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RupeshJenaa/DSA-coding/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/RupeshJenaa/DSA-coding/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -162,5 +164,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/RupeshJenaa/DSA-coding/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/RupeshJenaa/DSA-coding/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
