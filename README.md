@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/RupeshJenaa/DSA-coding/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RupeshJenaa/DSA-coding/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/RupeshJenaa/DSA-coding/tree/master/1189-maximum-number-of-balloons) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/RupeshJenaa/DSA-coding/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RupeshJenaa/DSA-coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RupeshJenaa/DSA-coding/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RupeshJenaa/DSA-coding/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/RupeshJenaa/DSA-coding/tree/master/0020-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/RupeshJenaa/DSA-coding/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RupeshJenaa/DSA-coding/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/RupeshJenaa/DSA-coding/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
