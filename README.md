@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RupeshJenaa/DSA-coding/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/RupeshJenaa/DSA-coding/tree/master/0402-remove-k-digits) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RupeshJenaa/DSA-coding/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/RupeshJenaa/DSA-coding/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/RupeshJenaa/DSA-coding/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/RupeshJenaa/DSA-coding/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/RupeshJenaa/DSA-coding/tree/master/0410-split-array-largest-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RupeshJenaa/DSA-coding/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RupeshJenaa/DSA-coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RupeshJenaa/DSA-coding/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/RupeshJenaa/DSA-coding/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/RupeshJenaa/DSA-coding/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/RupeshJenaa/DSA-coding/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RupeshJenaa/DSA-coding/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/RupeshJenaa/DSA-coding/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/RupeshJenaa/DSA-coding/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/RupeshJenaa/DSA-coding/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
