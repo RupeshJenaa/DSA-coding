@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/RupeshJenaa/DSA-coding/tree/master/0033-search-in-rotated-sorted-array) |
+| [0056-merge-intervals](https://github.com/RupeshJenaa/DSA-coding/tree/master/0056-merge-intervals) |
 | [0410-split-array-largest-sum](https://github.com/RupeshJenaa/DSA-coding/tree/master/0410-split-array-largest-sum) |
 | [0503-next-greater-element-ii](https://github.com/RupeshJenaa/DSA-coding/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/RupeshJenaa/DSA-coding/tree/master/0523-continuous-subarray-sum) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/RupeshJenaa/DSA-coding/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RupeshJenaa/DSA-coding/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/RupeshJenaa/DSA-coding/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/RupeshJenaa/DSA-coding/tree/master/1331-rank-transform-of-an-array) |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/RupeshJenaa/DSA-coding/tree/master/2487-remove-nodes-from-linked-list) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/RupeshJenaa/DSA-coding/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
