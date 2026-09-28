@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/RupeshJenaa/DSA-coding/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RupeshJenaa/DSA-coding/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/RupeshJenaa/DSA-coding/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RupeshJenaa/DSA-coding/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RupeshJenaa/DSA-coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RupeshJenaa/DSA-coding/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RupeshJenaa/DSA-coding/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -170,12 +171,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RupeshJenaa/DSA-coding/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RupeshJenaa/DSA-coding/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/RupeshJenaa/DSA-coding/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RupeshJenaa/DSA-coding/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/RupeshJenaa/DSA-coding/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RupeshJenaa/DSA-coding/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RupeshJenaa/DSA-coding/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RupeshJenaa/DSA-coding/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
 |  |
 | ------- |
