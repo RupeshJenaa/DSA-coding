@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/RupeshJenaa/DSA-coding/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/RupeshJenaa/DSA-coding/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/RupeshJenaa/DSA-coding/tree/master/0875-koko-eating-bananas) |
+| [0986-interval-list-intersections](https://github.com/RupeshJenaa/DSA-coding/tree/master/0986-interval-list-intersections) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RupeshJenaa/DSA-coding/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/RupeshJenaa/DSA-coding/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/RupeshJenaa/DSA-coding/tree/master/1288-remove-covered-intervals) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0986-interval-list-intersections](https://github.com/RupeshJenaa/DSA-coding/tree/master/0986-interval-list-intersections) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RupeshJenaa/DSA-coding/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/RupeshJenaa/DSA-coding/tree/master/0056-merge-intervals) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/RupeshJenaa/DSA-coding/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
