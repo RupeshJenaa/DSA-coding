@@ -1,6 +1,7 @@
 class Solution {
     public int scoreOfParentheses(String s) {
         // stack will store the scores based on the opening braces
+        // Each opening "("" creates a new level, and that level stores the score currently built inside it.
         Stack<Integer> st = new Stack<>();
         st.push(0); // which will hold the total score at last.
 
@@ -24,4 +25,6 @@ class Solution {
 
         return st.peek();
     }
+    //so why two pops? 
+    //first reason is to remove the '(' (imaginary) & to know the score of the current level and second reason is to add the score of the currently evaluated paranthesis to it's parent level.
 }
