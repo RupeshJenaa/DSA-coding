@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/RupeshJenaa/DSA-coding/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/RupeshJenaa/DSA-coding/tree/master/0402-remove-k-digits) |
+| [0856-score-of-parentheses](https://github.com/RupeshJenaa/DSA-coding/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RupeshJenaa/DSA-coding/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/RupeshJenaa/DSA-coding/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RupeshJenaa/DSA-coding/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/RupeshJenaa/DSA-coding/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/RupeshJenaa/DSA-coding/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/RupeshJenaa/DSA-coding/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/RupeshJenaa/DSA-coding/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RupeshJenaa/DSA-coding/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RupeshJenaa/DSA-coding/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/RupeshJenaa/DSA-coding/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RupeshJenaa/DSA-coding/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/RupeshJenaa/DSA-coding/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RupeshJenaa/DSA-coding/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RupeshJenaa/DSA-coding/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
